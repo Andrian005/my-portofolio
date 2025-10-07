@@ -10,7 +10,7 @@ export default function Projects() {
             image: "/images/portofolio.png",
             description:
                 "Personal portfolio built with Next.js and Tailwind CSS to showcase my skills and projects.",
-            link: "https://yourportfolio.vercel.app",
+            link: "https://landri.vercel.app/",
         },
     ];
 
